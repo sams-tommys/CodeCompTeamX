@@ -1,0 +1,13 @@
+# Tasks to do.
+## Task | Area | Initials
+
+1. Get Tommy laptop working with python env installed............| N/A   | All
+2. Connect TL to PI and check code can be saved and run on PI....| PI    | All
+3. Create/Develop Alexa skill....................................| Alexa | G
+4. Develop Lambda func for AWS...................................| Alexa | G
+5. Install Flask on PI-MASTER and get local page.................| PI    | S
+6. PI-MASTER - Develop GET and POST routes with sample data......| PI    | S
+7. PI-PICTURE - Add camera to PI - Take and save a pic...........| PI    | ~L~  J
+8. PI-TEMP - Add thermometer to PI - Record temp of environment..| PI    | J
+9. PI-MASTER - Connect to AWS....................................| PI    | F
+10. PI-ACTUATOR - Program movement of actuator...................| PI    | F
